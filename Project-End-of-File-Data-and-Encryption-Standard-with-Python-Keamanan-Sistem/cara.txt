@@ -1,0 +1,2 @@
+key minimal 8 charaketer angka/huruf
+
